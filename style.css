@@ -175,6 +175,7 @@
 }
 .desc{
     padding: 0 1rem;
+    text-align: center;
 }
 .desc span{
     display: block;
@@ -184,10 +185,11 @@
     margin-left: 80px;
 }
 .descO{
-    margin-left: 50px;
+    width: 100%;
+    margin-left: 75px;
 }
 .price{
-    margin-left: 80px;
+    margin-left: 85px;
 }
 .price-gh{
     display: inline;
