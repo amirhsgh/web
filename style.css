@@ -454,28 +454,28 @@
     justify-content: space-between;
 }
 .aks-footer div:nth-child(1){
-    background-image: url("/project1/images/angur.jpg");
+    background-image: url("images/angur.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
     width: 30%;
 }
 .aks-footer div:nth-child(2){
-    background-image: url("/project1/images/ananas.jpg");
+    background-image: url("images/ananas.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
     width: 30%;
 }
 .aks-footer div:nth-child(3){
-    background-image: url("/project1/images/totfarangi.jpg");
+    background-image: url("images/totfarangi.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
     width: 30%;
 }
 .aks-footer div:nth-child(4){
-    background-image:url("/project1/images/hendevane.jpg");
+    background-image:url("images/hendevane.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -483,7 +483,7 @@
     margin-top: 10px;
 }
 .aks-footer div:nth-child(5){
-    background-image: url("/project1/images/golabi.jpg");
+    background-image: url("images/golabi.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -491,7 +491,7 @@
     margin-top: 10px;
 }
 .aks-footer div:nth-child(6){
-    background-image: url("/project1/images/banana.jpg");
+    background-image: url("images/banana.jpg");
     height: 80px;
     background-size: cover;
     background-repeat: no-repeat;
